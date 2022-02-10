@@ -4,11 +4,10 @@ Today I learned.
 
 ---
 
-### Categories
+### Github Actions
 
-* [Ruby On Rails](#rubyonrails)
-
----
+- [Github Actions のスケジュール実行](githubactions/run_on_schedule.md)
+- [Github Actions の手動実行](githubactions/run_manually.md)
 
 ### Ruby on Rails
 
