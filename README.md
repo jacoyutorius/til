@@ -8,6 +8,11 @@ Today I learned.
 
 - [Alexa Hostedされているスキルをローカルでダイアログのテスト](alexa/test_dialog_on_local.md)
 
+### AWS CDK
+
+- [IAM Userを作成する](aws_cdk/create_iam_user.md)
+- [profileを指定してデプロイする](aws_cdk/deploy_with_profile.md)
+
 ### Github Actions
 
 - [Github Actions のスケジュール実行](githubactions/run_on_schedule.md)
