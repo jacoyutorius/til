@@ -12,6 +12,7 @@ Today I learned.
 
 - [IAM Userを作成する](aws_cdk/create_iam_user.md)
 - [profileを指定してデプロイする](aws_cdk/deploy_with_profile.md)
+- [画像の表示とウィンドウサイズに合わせて画像位置の調整](p5js/window_resized.md)
 
 ### Github Actions
 
