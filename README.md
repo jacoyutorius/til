@@ -6,6 +6,7 @@ Today I learned.
 
 ### Alexa
 
+- [ssmlで応答のイントネーションを調整する](alexa/prosody.md)
 - [Alexa Hostedされているスキルをローカルでダイアログのテスト](alexa/test_dialog_on_local.md)
 
 ### AWS CDK
