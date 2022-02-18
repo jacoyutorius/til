@@ -9,6 +9,10 @@ Today I learned.
 - [ssmlで応答のイントネーションを調整する](alexa/prosody.md)
 - [Alexa Hostedされているスキルをローカルでダイアログのテスト](alexa/test_dialog_on_local.md)
 
+### AWS Amplify
+
+- [VSCode Remote Containersで amplify cliを予めインストールした環境を作る](aws_amplify/amplify_cli_docker.md)
+
 ### AWS CDK
 
 - [IAM Userを作成する](aws_cdk/create_iam_user.md)
