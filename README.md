@@ -32,3 +32,7 @@ Today I learned.
 ### Ruby on Rails
 
 - [Rails on VSCodeRemoteContainer](rubyonrails/rails_on_vscode_remote_containers.md)
+
+### VSCode 
+
+- [node_modulesを docker volumeに配置してRemote Containersを起動する](vscode/volume_node_modules.md)
