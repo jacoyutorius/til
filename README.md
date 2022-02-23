@@ -26,6 +26,7 @@ Today I learned.
 
 ### p5.js
 
+- [colorModeについて](p5js/color_mode.md)
 - [線形補間を使って2点間を移動する点を描く](p5js/lerp.md)
 - [いろいろなモード切替え](p5js/mode.md)
 - [線形補間で点を移動させる](p5js/move_circle_by_lerp.md)
