@@ -17,7 +17,6 @@ Today I learned.
 
 - [IAM Userを作成する](aws_cdk/create_iam_user.md)
 - [profileを指定してデプロイする](aws_cdk/deploy_with_profile.md)
-- [画像の表示とウィンドウサイズに合わせて画像位置の調整](p5js/window_resized.md)
 
 ### Github Actions
 
@@ -30,6 +29,7 @@ Today I learned.
 - [線形補間を使って2点間を移動する点を描く](p5js/lerp.md)
 - [いろいろなモード切替え](p5js/mode.md)
 - [線形補間で点を移動させる](p5js/move_circle_by_lerp.md)
+- [画像の表示とウィンドウサイズに合わせて画像位置の調整](p5js/window_resized.md)
 
 ### Ruby on Rails
 
