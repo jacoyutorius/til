@@ -34,6 +34,7 @@ Today I learned.
 ### Ruby on Rails
 
 - [Rails on VSCodeRemoteContainer](rubyonrails/rails_on_vscode_remote_containers.md)
+- [カラム削除マイグレーションのかっこいい書き方](rubyonrails/remove_column.md)
 
 ### VSCode 
 
