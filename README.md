@@ -36,6 +36,10 @@ Today I learned.
 - [Rails on VSCodeRemoteContainer](rubyonrails/rails_on_vscode_remote_containers.md)
 - [カラム削除マイグレーションのかっこいい書き方](rubyonrails/remove_column.md)
 
+### Sublime Text
+
+- [ターミナルからの起動コマンドの設定](sublimetext/open_from_terminal.md)
+
 ### VSCode 
 
 - [AWS CLI と Amplify CLI をインストールした状態で Remote Containerを起動する](vscode/remote_container_with_aws.md)
