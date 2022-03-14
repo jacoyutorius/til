@@ -26,9 +26,11 @@ Today I learned.
 ### p5.js
 
 - [colorModeについて](p5js/color_mode.md)
+- [等間隔に並べられた円](p5js/evenly_placed_circle.md)
 - [線形補間を使って2点間を移動する点を描く](p5js/lerp.md)
 - [いろいろなモード切替え](p5js/mode.md)
 - [線形補間で点を移動させる](p5js/move_circle_by_lerp.md)
+- [`resetMatrix` の使いかた](p5js/resetmatrix.md)
 - [画像の表示とウィンドウサイズに合わせて画像位置の調整](p5js/window_resized.md)
 
 ### Ruby on Rails
