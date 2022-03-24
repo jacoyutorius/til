@@ -37,6 +37,10 @@ Today I learned.
 - [`resetMatrix` の使いかた](p5js/resetmatrix.md)
 - [画像の表示とウィンドウサイズに合わせて画像位置の調整](p5js/window_resized.md)
 
+### Ruby
+
+- [ShiftJISのデータのエラー(Encoding::UndefinedConversionError)](ruby/encoding_undefined_conversion_error.md)
+
 ### Ruby on Rails
 
 - [Rails on VSCodeRemoteContainer](rubyonrails/rails_on_vscode_remote_containers.md)
