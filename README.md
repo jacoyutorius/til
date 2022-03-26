@@ -45,6 +45,7 @@ Today I learned.
 
 - [Rails on VSCodeRemoteContainer](rubyonrails/rails_on_vscode_remote_containers.md)
 - [カラム削除マイグレーションのかっこいい書き方](rubyonrails/remove_column.md)
+- [webpackerの導入](rubyonrails/webpacker.md)
 
 ### Sublime Text
 
